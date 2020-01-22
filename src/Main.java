@@ -8,9 +8,5 @@ public class Main {
         System.out.println("Новая фича введене");
         System.out.println("И ещё одну новую фича введене");
         System.out.println("testBranch");
-
-
-        System.out.println("И ещё одну новую фича введене");
-        System.out.println("testBranch");
     }
 }
